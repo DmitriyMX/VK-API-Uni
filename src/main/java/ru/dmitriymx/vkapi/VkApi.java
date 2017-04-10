@@ -137,7 +137,7 @@ public class VkApi {
         }
 
         if (logger.isDebugEnabled()) {
-            logger.debug(response.getContent());
+            logger.debug(response.getContent().trim());
         }
     }
 
