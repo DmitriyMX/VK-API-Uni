@@ -8,6 +8,8 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import ru.dmitriymx.vkapi.browser.Browser;
+import ru.dmitriymx.vkapi.browser.Response;
 
 import java.io.IOException;
 import java.util.Map;
