@@ -1,0 +1,24 @@
+## IDEA ##
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+*.ids
+
+## ECLIPSE ##
+.settings/
+bin/
+.classpath
+.project
+
+## GRADLE ##
+.gradle/
+build/
+
+## MAVEN ##
+target/
+
+## OTHER ##
+lib/
+
